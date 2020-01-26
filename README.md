@@ -14,4 +14,4 @@ A lot... We worked with google's map-api for the first time. We learned a great 
 ## What's next for Report A Fire
 We're going to host a website (not just locally), and possibly create a smartphone app
 ## for use
-simply run main.go in command line, and open localhost:8080
+Simply clone repository, and if Go is already dowladed, type "go run main.go" into the command line, and open localhost:8080 in chrome.
